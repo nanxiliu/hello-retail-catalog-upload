@@ -71,7 +71,7 @@ def lambda_handler(event, context):
         merchant_data = ({
             "id": str(style_id),
             "name": str(name),
-            "origin":"hello-retail/web-client-create-product/amzn1.account.AFA43IRBIOXFBHWAERAQUI4M5GCA/nanxi",
+            "origin":"",
             "description": str(description),
             "schema":"com.nordstrom/product/create/1-0-0",
             "category": str(category),
