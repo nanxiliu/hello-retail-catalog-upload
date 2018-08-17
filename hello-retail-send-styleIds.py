@@ -18,5 +18,8 @@ def lambda_handler(event, context):
                 MessageBody= styleId
             )
     return ''
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 44fc9fbfc7dc389c500471af2b6c2ec17a35e6b5
